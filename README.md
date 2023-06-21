@@ -5,11 +5,11 @@ Here are the websites that I created: 👇
 
 ✔ https://www.yesstyle.com                __Tools: React.js, Node.js, Mongo DB, Customize CMS (Built-in), Azure DNS__
 
-✔ https://fluffyegg.com/                  __Tools: WordPress, PHP__
+✔ https://fluffyegg.com/                  __Tools: WordPress, PHP , Webflow__
   
 ✔ https://www.codeqatar.com/              __Tools: WooCommerce, WordPress Plugins & CMS, PHP, Azure DNS__
 
-✔ https://gbskw.business.site/            __Tools: HTML, CSS, JavaScript__
+✔ https://gbskw.business.site/            __Tools: HTML, CSS, JavaScript , Webflow__
 
 ✔ https://smartsolns.com/                 __Tools: C#, ASP.NET__
 
